@@ -18,7 +18,7 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
     service-url:
-      defalutZone: http://eureka7001:7001/eureka/
+      defalutZone: http://leeNode1:7001/eureka
 
 
 ---
@@ -36,4 +36,4 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
     service-url:
-      defalutZone: http://eureka7001:7001/eureka/
+      defalutZone: http://leeNode1:7001/eureka
